@@ -326,6 +326,11 @@ a.dotted-link:hover {
   right: 0;
 }
 
+.baresceen {
+  height: 200px;
+  width: 360px;
+}
+
 /* Projects Section */
 .projects .item {
   margin-bottom: 30px;
